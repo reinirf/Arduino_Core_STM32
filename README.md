@@ -1,7 +1,7 @@
 # Arduino core support for STM32 based boards
 [![GitHub release](https://img.shields.io/github/release/stm32duino/Arduino_Core_STM32.svg)](https://github.com/stm32duino/Arduino_Core_STM32/releases/latest)
 [![GitHub commits](https://img.shields.io/github/commits-since/stm32duino/Arduino_Core_STM32/1.5.0.svg)](https://github.com/stm32duino/Arduino_Core_STM32/compare/1.5.0...master)
-[![Build Status](https://travis-ci.com/stm32duino/Arduino_Core_STM32.svg?branch=master)](https://travis-ci.com/stm32duino/Arduino_Core_STM32)
+[![Build Status](https://travis-ci.com/reinirf/Arduino_Core_STM32.svg?branch=master)](https://travis-ci.com/reinirf/Arduino_Core_STM32)
 
 * [Introduction](https://github.com/stm32duino/Arduino_Core_STM32#Introduction)<br>
 * [Getting Started](https://github.com/stm32duino/Arduino_Core_STM32#getting-started)<br>
